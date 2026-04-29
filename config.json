@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "Application Activé"
+  "enabled": false,
+  "message": "Application Désactivé"
 }
